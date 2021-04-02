@@ -7,7 +7,9 @@ function App() {
 
         {/* logo */}
         <div className="logo">
-          Logo
+          <a href="/" className="logo__link">
+            <img src="./assets/icons/arabic.jpg" alt="Logo" className="logo__icon"/>
+          </a>
         </div>
 
         {/* Navigation */}
